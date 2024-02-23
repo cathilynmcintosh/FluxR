@@ -1,0 +1,13 @@
+"site","plot_type","plot_ID","ch4_net","ch4_cham_effect","ch4_dark","ch4_soil_em","ch4_plant_em","co2_net","co2_uptake","co2_total_em","co2_soil_em","co2_plant_em","date","surface_water","watertable_depth","elevation","temp_soil","temp_air","irradiance","solar_noon","pw_temp","pw_salinity","pw_ph","plant_type","live_leaf_num","est_live_area","est_total_area"
+"ST1","Stable","ST1 S1",35.55,-2.68,38.23,14.44,21.11,-22.26,-39.89,17.63,-1.04,18.67,"2023-07-11",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST1","Stable","ST1 S2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST1","Stable","ST1 S3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST1","Unstable","ST1 U1",21.32,8.78,12.54,17.78,3.54,-17.28,-30.11,12.83,2.73,10.1,"2023-07-11",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST1","Unstable","ST1 U2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST1","Unstable","ST1 U3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST2","Stable","ST2 S1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST2","Stable","ST2 S2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST2","Stable","ST2 S3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST2","Unstable","ST2 U1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST2","Unstable","ST2 U2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ST2","Unstable","ST2 U3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2023-07-11",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

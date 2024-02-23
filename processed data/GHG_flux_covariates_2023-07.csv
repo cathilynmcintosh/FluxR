@@ -1,0 +1,13 @@
+site,plot_type,plot_ID,date,surface_water,watertable_depth,elevation,temp_soil,temp_air,irradiance,solar_noon,pw_temp,pw_salinity,pw_ph,plant_type,live_leaf_num,est_live_area,est_total_area
+ST1,Stable,ST1 S1,2023-07-11,1,,,,,,,,,,,,,
+ST1,Stable,ST1 S2,2023-07-11,0,,,,,,,,,,,,,
+ST1,Stable,ST1 S3,2023-07-11,1,,,,,,,,,,,,,
+ST1,Unstable,ST1 U1,2023-07-11,1,,,,,,,,,,,,,
+ST1,Unstable,ST1 U2,2023-07-11,1,,,,,,,,,,,,,
+ST1,Unstable,ST1 U3,2023-07-11,0,,,,,,,,,,,,,
+ST2,Stable,ST2 S1,2023-07-11,0,,,,,,,,,,,,,
+ST2,Stable,ST2 S2,2023-07-11,0,,,,,,,,,,,,,
+ST2,Stable,ST2 S3,2023-07-11,0,,,,,,,,,,,,,
+ST2,Unstable,ST2 U1,2023-07-11,0,,,,,,,,,,,,,
+ST2,Unstable,ST2 U2,2023-07-11,0,,,,,,,,,,,,,
+ST2,Unstable,ST2 U3,2023-07-11,0,,,,,,,,,,,,,
